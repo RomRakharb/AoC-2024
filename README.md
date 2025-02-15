@@ -1,10 +1,21 @@
-# Microbit V2 Template
+# Advent of Code 2024
 
-This is the base template for microbit V2.
+This is my attempt to learn embedded rust using BBC micro:bit V2.
 
-Please run the following command to begin:
+What I try to learn:
+- Embedded rust:
+    - How it works
+    - Development environment
+    - Ecosystem
+- `#![no_std]` rust
+- Data structure through reimplementation of:
+    - `microbit-v2` crate
+    - `heapless` crate
+- Algorithm
 
-```
-bash .dependencies.sh
+<!-- Please run the following command to begin: -->
+
+<!-- ``` -->
+<!-- bash .dependencies.sh -->
   
-```
+<!-- ``` -->
